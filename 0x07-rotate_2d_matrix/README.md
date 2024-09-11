@@ -30,23 +30,33 @@ Manipulating rows of a matrix by reversing their order as part of the rotation p
 ###	5. Nested Loops:
 
 Using nested loops to iterate through 2D data structures like matrices.
+
 Modifying elements within nested loops to achieve the desired rotation.
 
 
 #	Resources:
 ###	1. Python Official Documentation:
 
-Data Structures (list comprehensions, nested list comprehension)
-More on Lists
+[Data Structures (list comprehensions, nested list comprehension)](https://intranet.alxswe.com/rltoken/eZc_ELGxUgkuc4kkE_fd7Q)
+[More on Lists](https://intranet.alxswe.com/rltoken/0ORj179giGhGe8jpcxBkXg)
 
 
 ###	2. GeeksforGeeks Articles:
 
-Inplace rotate square matrix by 90 degrees
-Transpose a matrix in Single line in Python
+[Inplace rotate square matrix by 90 degrees](https://intranet.alxswe.com/rltoken/9T8w4mtiIIRDtfLSmEmrLA)
+
+[Transpose a matrix in Single line in Python](https://intranet.alxswe.com/rltoken/JdIFvtej2hMW-Wd9ABHMOA)
 
 
 ###	3. TutorialsPoint:
 
-Python Lists for basics of list manipulation in Python.
+[Python Lists](https://intranet.alxswe.com/rltoken/rFmzUTpaLGqDXjGA6D9eYw) for basics of list manipulation in Python.
+
+
 By understanding these concepts and utilizing the provided resources, you will be able to approach the problem methodically, first transposing the matrix and then reversing each row to achieve a 90-degree clockwise rotation. This project not only tests your ability to manipulate 2D matrices but also challenges you to think about optimizing your solution to operate in-place, thus improving their problem-solving and algorithmic thinking skills in Python.
+
+
+#	Additional Resources
+
+[Mock Technical Interview](https://intranet.alxswe.com/rltoken/4GPWA9C2AJHtpdGxuIHEPA)
+
